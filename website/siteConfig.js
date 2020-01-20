@@ -26,7 +26,7 @@ const siteConfig = {
   url: 'https://basset.io',
   baseUrl: '/',
   cname: 'basset.io',
-  projectName: 'basset',
+  projectName: 'basset-website',
   organizationName: 'basset',
   headerLinks: [
     { doc: 'getting-started', label: 'Docs' },
