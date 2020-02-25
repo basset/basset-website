@@ -9,13 +9,13 @@ Here is a list of environmental variables Basset uses:
 
 | Name | Description |
 | ---|---|
-| `OUTH_GITHUB` | set to 1 to enable Github integration |
+| `OAUTH_GITHUB` | set to 1 to enable Github integration |
 | `OAUTH_GITHUB_CLIENT_ID` | your Github Client ID |
 | `OAUTH_GITHUB_CLIENT_SECRET` | your Github Client Secret |
-| `OUTH_BITBUCKET` | set to 1 to enable Bitbucket integration |
+| `OAUTH_BITBUCKET` | set to 1 to enable Bitbucket integration |
 | `OAUTH_BITBUCKET_CLIENT_ID` | your Bitbucket Key |
 | `OAUTH_BITBUCKET_CLIENT_SECRET` | your Bitbucket Secret |
-| `OUTH_GITLAB` | set to 1 to enable Gitlab integration |
+| `OAUTH_GITLAB` | set to 1 to enable Gitlab integration |
 | `OAUTH_GITLAB_CLIENT_ID` | your Gitlab Client ID |
 | `OAUTH_GITLAB_CLIENT_SECRET` | your Gitlab Client Secret |
 | `SAML_ENALBED` | set to 1 to enable SAML integration |
