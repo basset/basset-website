@@ -9,7 +9,7 @@ title: Installation
     ```shell-session
     npm install
     npm run build
-    cp dist/* ../express/static/dist/
+    cp -R dist ../express/static/dist
     ```
 
 3. Navigate to the `express` folder
